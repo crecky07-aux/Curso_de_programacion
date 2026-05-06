@@ -1,7 +1,7 @@
 
-numero = int(input("Introduce un número entero: "))
+numero = int(input("introduce un numero entero: "))
 
 if numero % 5 == 0:
-    print(f"El número {numero} es múltiplo de 5.  ")
+    print(f"el número {numero} es multiplo de 5.  ")
 else:
-    print(f"El número {numero} NO es múltiplo de 5.")
+    print(f"el número {numero} NO es multiplo de 5.")
