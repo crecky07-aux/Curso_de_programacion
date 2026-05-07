@@ -1,4 +1,3 @@
-# Descuento Mixto en Tienda 🛍️
 
 categoria = input("ingrese la categoría del producto (Electronica o Ropa): ").strip().lower().replace("é", "e")
 cantidad = int(input("ingrese la cantidad comprada: "))
